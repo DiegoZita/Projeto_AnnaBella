@@ -1,0 +1,45 @@
+body{
+    background-color: #d2d2c1;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+    
+}
+
+#menu{
+    background: #c2c2b7;
+    text-align: center;
+    padding: 18px;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo{
+    background-color: #e8e8d9;
+    padding: 10px;
+
+}
+
+.contato{
+    padding: 10px;
+}
+
+.fotos{
+    border: 10px solid rgb(219, 210, 166);
+}
+
+.centralizar{
+    text-align: center;
+}
+
+h2{
+    color: #828271;
+    font-size: 1.2em;
+}
